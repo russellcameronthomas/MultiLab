@@ -10,12 +10,12 @@ package edu.gmu.cds.multilab.processes;
  * @author Russell Thomas
  */
 
-import sim.models.simpleConsumption.Constants;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.Constants;
 import sim.util.Bag;
-import utilities.Line;
+import edu.gmu.cds.multilab.utilities.Line;
 import ec.util.MersenneTwisterFast;
-import active.*;
-import interaction.*;
+import edu.gmu.cds.multilab.active.*;
+import edu.gmu.cds.multilab.interaction.*;
 
 public class DesignProcess extends ImplementationProcess {
 

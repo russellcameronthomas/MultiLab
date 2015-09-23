@@ -6,11 +6,11 @@
 
 package edu.gmu.cds.multilab.agent;
 
-import interaction.Interactor;
+import edu.gmu.cds.multilab.interaction.Interactor;
 import sim.engine.*;
 import sim.util.*;
-import sim.models.simpleConsumption.*;
-import active.*;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.*;
+import edu.gmu.cds.multilab.active.*;
 
 
 /**

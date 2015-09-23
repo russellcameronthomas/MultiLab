@@ -7,7 +7,7 @@
 package edu.gmu.cds.multilab.space;
 
 import sim.field.grid.*;
-import utilities.*;
+import edu.gmu.cds.multilab.utilities.*;
 import sim.util.*;
 
 

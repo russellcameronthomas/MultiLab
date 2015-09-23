@@ -11,7 +11,7 @@ package edu.gmu.cds.multilab.active;
  * @author Russell Thomas
  */
 
-import utilities.*;
+import edu.gmu.cds.multilab.utilities.*;
 import sim.util.*;
 
 public class StoppingCondition {

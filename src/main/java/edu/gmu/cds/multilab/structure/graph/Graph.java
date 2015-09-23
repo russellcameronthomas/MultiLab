@@ -10,7 +10,7 @@ package edu.gmu.cds.multilab.structure.graph;
  *
  * @author Russell Thomas
  */
-import interaction.*;
+import edu.gmu.cds.multilab.interaction.*;
 
 public class Graph extends Structure {
 

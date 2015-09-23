@@ -11,7 +11,7 @@ package edu.gmu.cds.multilab.space;
  * @author Russell Thomas
  */
 
-import interaction.*;
+import edu.gmu.cds.multilab.interaction.*;
 
 public abstract class Space extends Interactor implements EngageSpace {
     Object space = new Object();

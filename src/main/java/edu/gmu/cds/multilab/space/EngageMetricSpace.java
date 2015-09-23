@@ -6,8 +6,8 @@
 
 package edu.gmu.cds.multilab.space;
 
-import utilities.Datum;
-import utilities.Double_nD;
+import edu.gmu.cds.multilab.utilities.Datum;
+import edu.gmu.cds.multilab.utilities.Double_nD;
 
 
 /**

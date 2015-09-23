@@ -10,9 +10,9 @@ package edu.gmu.cds.multilab.space;
  *
  * @author Russell Thomas
  */
-import affordances.*;
+import edu.gmu.cds.multilab.affordances.*;
 import sim.util.*;
-import active.*;
+import edu.gmu.cds.multilab.active.*;
 
 public class LabeledBag extends TypedBag implements EngageSearchable {
     Bag labels;

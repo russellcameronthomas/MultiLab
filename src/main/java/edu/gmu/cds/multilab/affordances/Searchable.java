@@ -6,7 +6,7 @@
 
 package edu.gmu.cds.multilab.affordances;
 
-import capabilities.Searching;
+import edu.gmu.cds.multilab.capabilities.Searching;
 
 /**
  *

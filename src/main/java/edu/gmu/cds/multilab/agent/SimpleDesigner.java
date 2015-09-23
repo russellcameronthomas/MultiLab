@@ -14,11 +14,11 @@ import sim.portrayal.DrawInfo2D;
 import sim.portrayal.simple.OvalPortrayal2D;
 import sim.util.*;
 import ec.util.MersenneTwisterFast;
-import sim.models.simpleConsumption.Constants;
-import utilities.*;
-import capabilities.*;
-import active.*;
-import interaction.*;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.Constants;
+import edu.gmu.cds.multilab.utilities.*;
+import edu.gmu.cds.multilab.capabilities.*;
+import edu.gmu.cds.multilab.active.*;
+import edu.gmu.cds.multilab.interaction.*;
 import sim.portrayal.SimplePortrayal2D;
 
 /**

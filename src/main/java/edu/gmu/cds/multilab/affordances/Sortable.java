@@ -12,7 +12,7 @@ package edu.gmu.cds.multilab.affordances;
  *
  * @author Russell Thomas
  */
-import capabilities.*;
+import edu.gmu.cds.multilab.capabilities.*;
 
 public class Sortable extends Affordance {
     private static final long serialVersionUID = 12;

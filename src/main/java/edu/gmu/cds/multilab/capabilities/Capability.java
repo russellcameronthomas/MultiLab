@@ -11,9 +11,9 @@ package edu.gmu.cds.multilab.capabilities;
  * @author Russell Thomas
  */
 
-import processes.*;
+import edu.gmu.cds.multilab.processes.*;
 import ec.util.MersenneTwisterFast;
-import interaction.*;
+import edu.gmu.cds.multilab.interaction.*;
 
 public abstract class Capability {
     ImplementationProcess process;

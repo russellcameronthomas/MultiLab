@@ -8,21 +8,21 @@ package edu.gmu.cds.multilab.agent;
  *
  * @author Russell Thomas
  */
-import active.StoppingCondition;
-import capabilities.*;
+import edu.gmu.cds.multilab.active.StoppingCondition;
+import edu.gmu.cds.multilab.capabilities.*;
 import sim.util.*;
 import sim.engine.*;
 import sim.field.grid.SparseGrid2D;
-import active.*;
+import edu.gmu.cds.multilab.active.*;
 import ec.util.MersenneTwisterFast;
-import processes.*;
-import space.*;
-import artifact.*;
-import utilities.BooleanOrNA;
+import edu.gmu.cds.multilab.processes.*;
+import edu.gmu.cds.multilab.space.*;
+import edu.gmu.cds.multilab.artifact.*;
+import edu.gmu.cds.multilab.utilities.BooleanOrNA;
 import sim.util.Int2D;
-import sim.models.simpleConsumption.*;
-import space.*;
-import interaction.*;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.*;
+import edu.gmu.cds.multilab.space.*;
+import edu.gmu.cds.multilab.interaction.*;
 import java.awt.Color;
 
 public class Consumer extends PredefinedAgent {

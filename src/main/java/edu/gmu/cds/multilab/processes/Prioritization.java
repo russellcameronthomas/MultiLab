@@ -5,13 +5,13 @@
  */
 package edu.gmu.cds.multilab.processes;
 
-import active.Results;
+import edu.gmu.cds.multilab.active.Results;
 import ec.util.MersenneTwisterFast;
 import java.util.Comparator;
 import sim.util.*;
-import sim.models.simpleConsumption.Constants;
-import space.*;
-import utilities.*;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.Constants;
+import edu.gmu.cds.multilab.space.*;
+import edu.gmu.cds.multilab.utilities.*;
 
 /**
  *

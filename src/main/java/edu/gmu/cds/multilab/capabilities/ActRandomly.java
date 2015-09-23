@@ -11,8 +11,8 @@ package edu.gmu.cds.multilab.capabilities;
  * @author Russell Thomas
  */
 import ec.util.MersenneTwisterFast;
-import interaction.*;
-import processes.*;
+import edu.gmu.cds.multilab.interaction.*;
+import edu.gmu.cds.multilab.processes.*;
 
 public class ActRandomly extends Capability {
     

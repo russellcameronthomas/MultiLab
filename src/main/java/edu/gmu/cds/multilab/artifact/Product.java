@@ -12,7 +12,7 @@ package edu.gmu.cds.multilab.artifact;
  */
 
 import sim.engine.*;
-import affordances.*;
+import edu.gmu.cds.multilab.affordances.*;
 import sim.util.*;
 
 public class Product extends Artifact {

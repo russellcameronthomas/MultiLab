@@ -6,7 +6,7 @@
 
 package edu.gmu.cds.multilab.utilities;
 
-import sim.models.simpleConsumption.Constants;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.Constants;
 
 /**
  *

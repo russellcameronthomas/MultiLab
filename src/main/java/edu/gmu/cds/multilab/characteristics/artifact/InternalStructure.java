@@ -11,7 +11,7 @@ package edu.gmu.cds.multilab.characteristics.artifact;
  * @author Russell Thomas
  */
 
-import characteristics.*;
+import edu.gmu.cds.multilab.characteristics.*;
 
 public class InternalStructure extends Characteristic {
 

@@ -6,10 +6,10 @@
 
 package edu.gmu.cds.multilab.space;
 
-import affordances.*;
+import edu.gmu.cds.multilab.affordances.*;
 import sim.util.*;
-import utilities.*;
-import active.*;
+import edu.gmu.cds.multilab.utilities.*;
+import edu.gmu.cds.multilab.active.*;
 
 /**
  *

@@ -11,13 +11,13 @@ package edu.gmu.cds.multilab.processes;
  * @author Russell Thomas
  */
 
-import active.StoppingCondition;
+import edu.gmu.cds.multilab.active.StoppingCondition;
 import sim.util.*;
 import sim.engine.*;
 import ec.util.MersenneTwisterFast;
-import active.*;
-import space.*;
-import interaction.*;
+import edu.gmu.cds.multilab.active.*;
+import edu.gmu.cds.multilab.space.*;
+import edu.gmu.cds.multilab.interaction.*;
 
 public abstract class ImplementationProcess {
     MersenneTwisterFast rng;

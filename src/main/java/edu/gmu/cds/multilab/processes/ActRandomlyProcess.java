@@ -6,10 +6,10 @@
 
 package edu.gmu.cds.multilab.processes;
 
-import active.Results;
-import artifact.PlanarGraphProduct;
+import edu.gmu.cds.multilab.active.Results;
+import edu.gmu.cds.multilab.artifact.PlanarGraphProduct;
 import ec.util.MersenneTwisterFast;
-import interaction.*;
+import edu.gmu.cds.multilab.interaction.*;
 import sim.util.*;
 
 /**

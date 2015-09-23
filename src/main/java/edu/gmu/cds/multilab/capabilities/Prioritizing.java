@@ -11,10 +11,10 @@ package edu.gmu.cds.multilab.capabilities;
  * @author Russell Thomas
  */
 import ec.util.MersenneTwisterFast;
-import interaction.*;
+import edu.gmu.cds.multilab.interaction.*;
 import sim.util.*;
 import java.util.Comparator;
-import processes.*;
+import edu.gmu.cds.multilab.processes.*;
 
 public class Prioritizing extends Capability {
 

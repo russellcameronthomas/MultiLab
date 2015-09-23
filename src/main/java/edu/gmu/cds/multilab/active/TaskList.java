@@ -5,13 +5,14 @@
  */
 package edu.gmu.cds.multilab.active;
 
-import affordances.Affordance;
-import capabilities.Capability;
-import interaction.Interactor;
+
+import edu.gmu.cds.multilab.affordances.Affordance;
+import edu.gmu.cds.multilab.capabilities.Capability;
+import edu.gmu.cds.multilab.interaction.Interactor;
 import sim.util.Bag;
-import utilities.*;
-import space.*;
-import sim.models.simpleConsumption.Constants;
+import edu.gmu.cds.multilab.utilities.*;
+import edu.gmu.cds.multilab.space.*;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.Constants;
 
 /**
  *

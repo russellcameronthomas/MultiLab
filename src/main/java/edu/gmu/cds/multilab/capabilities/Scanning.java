@@ -6,8 +6,8 @@
 
 package edu.gmu.cds.multilab.capabilities;
 
-import ec.util.MersenneTwisterFast;;
-import processes.*;
+import ec.util.MersenneTwisterFast;
+import edu.gmu.cds.multilab.processes.*;
 import sim.util.*;
 
 /**
@@ -15,7 +15,7 @@ import sim.util.*;
  * @author Russell Thomas
  */
 
-import sim.models.simpleConsumption.Constants;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.Constants;
 
 public class Scanning extends Capability {
     

@@ -11,8 +11,8 @@ package edu.gmu.cds.multilab.capabilities;
  * @author Russell Thomas
  */
 import ec.util.MersenneTwisterFast;
-import interaction.*;
-import processes.Consumption;
+import edu.gmu.cds.multilab.interaction.*;
+import edu.gmu.cds.multilab.processes.Consumption;
 
 public class Consuming extends Capability {
     Consumption myProcess;

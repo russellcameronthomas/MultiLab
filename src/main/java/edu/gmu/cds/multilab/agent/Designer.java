@@ -6,16 +6,16 @@
 
 package edu.gmu.cds.multilab.agent;
 
-import active.Task;
-import capabilities.Adapting;
-import capabilities.Designing;
+import edu.gmu.cds.multilab.active.Task;
+import edu.gmu.cds.multilab.capabilities.Adapting;
+import edu.gmu.cds.multilab.capabilities.Designing;
 import ec.util.MersenneTwisterFast;
 import sim.field.grid.SparseGrid2D;
 import sim.util.Bag;
-import active.*;
-import interaction.*;
-import sim.models.simpleConsumption.SimpleConsumption;
-import space.*;
+import edu.gmu.cds.multilab.active.*;
+import edu.gmu.cds.multilab.interaction.*;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.SimpleConsumption;
+import edu.gmu.cds.multilab.space.*;
 
 /**
  *

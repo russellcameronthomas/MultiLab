@@ -1,0 +1,13 @@
+Iload(0),
+Iload(1),
+Imul(),
+Iload(1),
+Iload(2),
+Imul(),
+Iadd(),
+Iload(0),
+Iload(2),
+Imul(),
+Iadd(),
+Bipush(2),
+Imul()

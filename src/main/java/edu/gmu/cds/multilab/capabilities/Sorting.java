@@ -7,7 +7,7 @@
 package edu.gmu.cds.multilab.capabilities;
 
 import ec.util.MersenneTwisterFast;
-import processes.SortProcess;
+import edu.gmu.cds.multilab.processes.SortProcess;
 
 /**
  *

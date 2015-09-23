@@ -11,7 +11,7 @@ package edu.gmu.cds.multilab.utilities;
  * @author Russell Thomas
  */
 import java.util.InputMismatchException;
-import utilities.Datum;
+import edu.gmu.cds.multilab.utilities.Datum;
 
 
 public class EuclideanDistance implements Distance_nD {

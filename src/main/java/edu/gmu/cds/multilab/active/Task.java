@@ -12,9 +12,9 @@ package edu.gmu.cds.multilab.active;
  */
 
 import sim.util.*;
-import processes.*;
-import space.*;
-import interaction.*;
+import edu.gmu.cds.multilab.processes.*;
+import edu.gmu.cds.multilab.space.*;
+import edu.gmu.cds.multilab.interaction.*;
 
 public class Task {
     Class capabilityClass;

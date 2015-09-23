@@ -11,7 +11,7 @@ package edu.gmu.cds.multilab.active;
  * @author Russell Thomas
  */
 import sim.util.*;
-import space.*;
+import edu.gmu.cds.multilab.space.*;
 
 public class Results {
     public Status status = new Status();

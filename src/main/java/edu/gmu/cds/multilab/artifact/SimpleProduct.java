@@ -13,8 +13,8 @@ import sim.engine.Steppable;
 import sim.portrayal.DrawInfo2D;
 import sim.portrayal.simple.OvalPortrayal2D;
 import sim.util.*;
-import sim.models.simpleConsumption.Constants;
-import utilities.*;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.Constants;
+import edu.gmu.cds.multilab.utilities.*;
 
 /**
  *

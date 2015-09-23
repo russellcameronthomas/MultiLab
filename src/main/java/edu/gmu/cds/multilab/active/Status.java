@@ -10,7 +10,7 @@ package edu.gmu.cds.multilab.active;
  *
  * @author Russell Thomas
  */
-import sim.models.simpleConsumption.*;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.*;
 
 public class Status {
     int code;

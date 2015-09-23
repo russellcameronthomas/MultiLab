@@ -11,10 +11,10 @@ package edu.gmu.cds.multilab.space;
  * @author Russell Thomas
  */
 
-import affordances.*;
-import interaction.*;
+import edu.gmu.cds.multilab.affordances.*;
+import edu.gmu.cds.multilab.interaction.*;
 import sim.util.*;
-import active.*;
+import edu.gmu.cds.multilab.active.*;
 
 public class TypedBag extends Interactor implements EngageTypedSpace, EngageScannable{
     Bag bag;

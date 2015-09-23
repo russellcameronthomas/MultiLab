@@ -9,12 +9,12 @@ package edu.gmu.cds.multilab.agent;
  * @author Russell Thomas
  */
 
-import capabilities.*;
+import edu.gmu.cds.multilab.capabilities.*;
 import sim.engine.*;
 import ec.util.MersenneTwisterFast;
 import sim.util.Bag;
-import sim.models.simpleConsumption.*;
-import space.*;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.*;
+import edu.gmu.cds.multilab.space.*;
 
 public class AgentFactory {
 

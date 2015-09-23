@@ -6,10 +6,10 @@
 
 package edu.gmu.cds.multilab.processes;
 
-import active.Results;
+import edu.gmu.cds.multilab.active.Results;
 import ec.util.MersenneTwisterFast;
-import interaction.*;
-import affordances.*;
+import edu.gmu.cds.multilab.interaction.*;
+import edu.gmu.cds.multilab.affordances.*;
 
 /**
  *

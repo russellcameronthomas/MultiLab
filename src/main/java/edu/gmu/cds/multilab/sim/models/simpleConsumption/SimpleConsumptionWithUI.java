@@ -11,7 +11,7 @@ import sim.display.*;
 import sim.portrayal.grid.*;
 import java.awt.*;
 import javax.swing.*;
-import sim.models.simpleConsumption.Constants;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.Constants;
 
 public class SimpleConsumptionWithUI extends GUIState
     {

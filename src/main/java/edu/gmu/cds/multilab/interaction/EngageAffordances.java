@@ -11,7 +11,7 @@ package edu.gmu.cds.multilab.interaction;
  * @author Russell Thomas
  */
 
-import affordances.Affordance;
+import edu.gmu.cds.multilab.affordances.Affordance;
 import sim.util.*;
 import sim.engine.*;
 

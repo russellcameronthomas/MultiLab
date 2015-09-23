@@ -12,7 +12,7 @@ import sim.util.Bag;
  *
  * @author Russell Thomas
  */
-import utilities.*;
+import edu.gmu.cds.multilab.utilities.*;
 
 public interface TestConditions {
     

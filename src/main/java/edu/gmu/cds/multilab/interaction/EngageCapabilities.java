@@ -6,7 +6,7 @@
 
 package edu.gmu.cds.multilab.interaction;
 
-import capabilities.Capability;
+import edu.gmu.cds.multilab.capabilities.Capability;
 import sim.util.Bag;
 
 /**

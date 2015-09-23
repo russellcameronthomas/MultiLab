@@ -8,8 +8,8 @@ package edu.gmu.cds.multilab.space;
 
 import sim.field.grid.SparseGrid2D;
 import sim.util.Int2D;
-import utilities.Datum;
-import utilities.*;
+import edu.gmu.cds.multilab.utilities.Datum;
+import edu.gmu.cds.multilab.utilities.*;
 
 
 /**

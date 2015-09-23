@@ -6,21 +6,21 @@
 
 package edu.gmu.cds.multilab.sim.models.simpleConsumption;
 
-import agent.SimpleDesigner;
-import agent.SimpleConsumer;
-import artifact.SimpleProduct;
+import edu.gmu.cds.multilab.agent.SimpleDesigner;
+import edu.gmu.cds.multilab.agent.SimpleConsumer;
+import edu.gmu.cds.multilab.artifact.SimpleProduct;
 import sim.engine.*;
 import sim.field.grid.*;
 import sim.util.*;
-import sim.models.simpleConsumption.Constants;
-import artifact.*;
-import active.*;
-import capabilities.*;
-import agent.*;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.Constants;
+import edu.gmu.cds.multilab.artifact.*;
+import edu.gmu.cds.multilab.active.*;
+import edu.gmu.cds.multilab.capabilities.*;
+import edu.gmu.cds.multilab.agent.*;
 import java.lang.reflect.Method;
-import interaction.*;
+import edu.gmu.cds.multilab.interaction.*;
 import java.awt.Color;
-import space.*;
+import edu.gmu.cds.multilab.space.*;
 
 
 public /*strictfp*/ class SimpleConsumption extends SimState

@@ -6,10 +6,10 @@
 
 package edu.gmu.cds.multilab.processes;
 
-import active.Results;
+import edu.gmu.cds.multilab.active.Results;
 import ec.util.MersenneTwisterFast;
 import sim.field.grid.SparseGrid2D;
-import space.ObjectGrid2DGeneric;
+import edu.gmu.cds.multilab.space.ObjectGrid2DGeneric;
 import sim.util.*;
 
 /**

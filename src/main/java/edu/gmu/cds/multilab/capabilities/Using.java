@@ -11,7 +11,7 @@ package edu.gmu.cds.multilab.capabilities;
  * @author Russell Thomas
  */
 
-import interaction.*;
+import edu.gmu.cds.multilab.interaction.*;
 
 public class Using extends Capability {
 

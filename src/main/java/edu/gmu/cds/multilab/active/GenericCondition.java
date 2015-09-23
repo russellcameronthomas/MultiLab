@@ -7,7 +7,7 @@
 package edu.gmu.cds.multilab.active;
 
 import sim.util.Bag;
-import utilities.*;
+import edu.gmu.cds.multilab.utilities.*;
 
 /**
  *

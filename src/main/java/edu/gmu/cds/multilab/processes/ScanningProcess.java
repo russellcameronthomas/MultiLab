@@ -6,11 +6,11 @@
 
 package edu.gmu.cds.multilab.processes;
 
-import active.Results;
+import edu.gmu.cds.multilab.active.Results;
 import ec.util.MersenneTwisterFast;
-import space.*;
+import edu.gmu.cds.multilab.space.*;
 import sim.util.*;
-import utilities.*;
+import edu.gmu.cds.multilab.utilities.*;
 import sim.field.grid.*;
 
 /**

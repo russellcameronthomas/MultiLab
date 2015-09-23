@@ -6,7 +6,7 @@
 
 package edu.gmu.cds.multilab.affordances;
 
-import active.Results;
+import edu.gmu.cds.multilab.active.Results;
 
 /**
  *

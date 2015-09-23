@@ -13,7 +13,7 @@ package edu.gmu.cds.multilab.artifact;
 
 import sim.util.*;
 import sim.engine.*;
-import interaction.*;
+import edu.gmu.cds.multilab.interaction.*;
 
 public abstract class Artifact extends Interactor  {
     

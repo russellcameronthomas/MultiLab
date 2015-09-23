@@ -10,12 +10,12 @@ package edu.gmu.cds.multilab.affordances;
  * @author Russell Thomas
  *
  * An Affordance is an interaction and manipulation relationship between an
- * artifact's Characteristics and an agent's Capabilities. This can be seen as a
+ * artifact's Characteristics and an agent's Capabilities.
  *
  *
  */
 import sim.util.Bag;
-import capabilities.*;
+import edu.gmu.cds.multilab.capabilities.*;
 
 public abstract class Affordance {
 

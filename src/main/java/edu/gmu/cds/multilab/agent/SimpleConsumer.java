@@ -6,7 +6,7 @@
 
 package edu.gmu.cds.multilab.agent;
 
-import artifact.SimpleProduct;
+import edu.gmu.cds.multilab.artifact.SimpleProduct;
 import ec.util.MersenneTwisterFast;
 import sim.field.grid.*;
 import sim.portrayal.*;
@@ -14,10 +14,10 @@ import sim.portrayal.simple.*;
 import sim.util.*;
 import sim.engine.*;
 import java.awt.*;
-import utilities.*;
-import sim.models.simpleConsumption.Constants;
-import sim.models.simpleConsumption.SimpleConsumption;
-import artifact.*;
+import edu.gmu.cds.multilab.utilities.*;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.Constants;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.SimpleConsumption;
+import edu.gmu.cds.multilab.artifact.*;
 
 public class SimpleConsumer extends Agent {
     private static final long serialVersionUID = 1;

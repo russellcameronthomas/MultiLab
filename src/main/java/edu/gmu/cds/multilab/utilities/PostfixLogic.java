@@ -30,7 +30,7 @@ package edu.gmu.cds.multilab.utilities;
  * @author Russell Thomas
  */
 
-import sim.models.simpleConsumption.Constants;
+import edu.gmu.cds.multilab.sim.models.simpleConsumption.Constants;
 import sim.util.*;
 
 public class PostfixLogic {

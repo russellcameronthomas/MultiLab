@@ -10,7 +10,7 @@ package edu.gmu.cds.multilab.characteristics.agent;
  *
  * @author Russell Thomas
  */
-import characteristics.*;
+import edu.gmu.cds.multilab.characteristics.*;
 
 public class Commitments extends Characteristic {
 

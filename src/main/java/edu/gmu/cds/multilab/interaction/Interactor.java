@@ -6,17 +6,17 @@
 
 package edu.gmu.cds.multilab.interaction;
 
-import capabilities.Capability;
-import affordances.Affordance;
-import characteristics.Characteristic;
+import edu.gmu.cds.multilab.capabilities.Capability;
+import edu.gmu.cds.multilab.affordances.Affordance;
+import edu.gmu.cds.multilab.characteristics.Characteristic;
 import sim.engine.*;
 import sim.util.Bag;
 import sim.portrayal.*;
-import active.*;
-import capabilities.Designing;
-import utilities.*;
-import space.*;
-import characteristics.*;
+import edu.gmu.cds.multilab.active.*;
+import edu.gmu.cds.multilab.capabilities.Designing;
+import edu.gmu.cds.multilab.utilities.*;
+import edu.gmu.cds.multilab.space.*;
+import edu.gmu.cds.multilab.characteristics.*;
 
 /**
  *

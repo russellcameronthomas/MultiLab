@@ -7,8 +7,8 @@
 package edu.gmu.cds.multilab.interaction;
 
 import sim.util.Bag;
-import characteristics.*;
-import active.*;
+import edu.gmu.cds.multilab.characteristics.*;
+import edu.gmu.cds.multilab.active.*;
 
 /**
  *

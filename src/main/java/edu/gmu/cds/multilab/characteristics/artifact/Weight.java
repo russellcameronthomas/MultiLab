@@ -10,7 +10,7 @@ package edu.gmu.cds.multilab.characteristics.artifact;
  *
  * @author Russell Thomas
  */
-import characteristics.*;
+import edu.gmu.cds.multilab.characteristics.*;
 
 public class Weight extends Characteristic {
 
